@@ -6,7 +6,7 @@ Roll No. - 1803013114
 Mentioned below is description of all the python concepts covered with each module : 
 
 <!-- OL -->
-1. Module 1 :
+1. [Module 1]("https://github.com/TanujManral/SIG_PYTHON_2020-2021/tree/master/MODULE-1") :
     * basic "Hello World" program
     
 <!-- OL -->
